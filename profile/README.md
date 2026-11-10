@@ -8,7 +8,7 @@ Harbourworks is the developer-tools workshop of [Dynamo Maritime](https://dynamo
 
 | Tool | What it does | Status |
 | --- | --- | --- |
-| [**Seaworthy**](https://dynamomaritime.com/seaworthy) | A pre-launch security check for AI-built apps. Finds leaked keys, open database rules, unprotected API routes, unverified payment webhooks and unsafe LLM code, on your own machine. | Early access |
+| [**Seaworthy**](https://dynamomaritime.com/seaworthy) | A pre-launch security check for AI-built apps. Finds leaked keys, open database rules, unprotected API routes, unverified payment webhooks and unsafe LLM code, on your own machine. `npx seaworthy-cli` | Available · [npm](https://www.npmjs.com/package/seaworthy-cli) · [source](https://github.com/harbourworks/seaworthy) |
 
 More tools are in the works.
 
