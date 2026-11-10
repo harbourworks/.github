@@ -69,7 +69,7 @@ npx seaworthy-cli
 | Shareable report for clients and investors | | ✔ |
 | Team policy, scheduled scans, Slack and email alerts | | ✔ |
 | Priority support | | ✔ |
-| Licence | MIT, open source | Founding-member pricing at launch |
+| Licence | Free for any use except a competing product. Source-available; each release becomes Apache 2.0 after two years | Commercial licence, per key. Founding-member pricing at launch |
 
 Pro never stores your code. It keeps only finding metadata: rule, file path, line and time.
 
