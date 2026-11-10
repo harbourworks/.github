@@ -57,21 +57,27 @@ npx seaworthy-cli
 
 `seaworthy init` adds a GitHub Action that scans each pull request, posts a summary comment, uploads results to GitHub code scanning, and blocks the merge on critical or high findings.
 
-### Free and Pro
+### Plans
 
-| | **Free** | **Pro** |
-| --- | --- | --- |
-| Every check, local CLI and GitHub Action | ✔ | ✔ |
-| Terminal, Markdown, SARIF and JSON reports | ✔ | ✔ |
-| Fix text and paste-ready AI prompts | ✔ | ✔ |
-| Fix pull requests, generated in your own CI | | ✔ |
-| Scan history and trends per repo | | ✔ |
-| Shareable report for clients and investors | | ✔ |
-| Team policy, scheduled scans, Slack and email alerts | | ✔ |
-| Priority support | | ✔ |
-| Licence | Free for any use except a competing product. Source-available; each release becomes Apache 2.0 after two years | Commercial licence, per key. Founding-member pricing at launch |
+| | **Free** | **Pro** | **Agency** |
+| --- | --- | --- | --- |
+| Price | £0 | £12 a month or £99 a year | £349 a year |
+| Every check, local CLI and GitHub Action | ✔ | ✔ | ✔ |
+| Terminal, Markdown, SARIF and JSON reports | ✔ | ✔ | ✔ |
+| Fix text and paste-ready AI prompts | ✔ | ✔ | ✔ |
+| Self-contained HTML report to share | | ✔ | ✔ |
+| Scan history, trends and before/after comparison | | ✔ | ✔ |
+| Pull-request checks that show only new problems *(coming)* | | ✔ | ✔ |
+| Scheduled scans with Slack and email alerts *(coming)* | | ✔ | ✔ |
+| Fix pull requests for mechanical fixes, generated in your own CI *(coming)* | | ✔ | ✔ |
+| White-label reports: your logo, agency name and client name | | | ✔ |
+| Scan every project in a folder, one combined report | | | ✔ |
+| Team policy across every repo *(coming)* | | | ✔ |
+| Priority support | | ✔ | ✔ |
+| Machines per licence key | | 2 | 10 |
+| Licence | Free for any use except a competing product. Source-available; each release becomes Apache 2.0 after two years | Commercial licence, per key | Commercial licence, per key |
 
-Pro never stores your code. It keeps only finding metadata: rule, file path, line and time.
+Paid plans never store your code. They keep only finding metadata: rule, file path, line and time.
 
 ---
 
