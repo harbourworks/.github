@@ -9,7 +9,7 @@ Harbourworks is the developer-tools workshop of [Dynamo Maritime](https://dynamo
 | Tool | What it does | Status |
 | --- | --- | --- |
 | [**Seaworthy**](https://dynamomaritime.com/seaworthy) | A pre-launch security check for AI-built apps. Finds leaked keys, open database rules, unprotected API routes, unverified payment webhooks and unsafe LLM code, on your own machine. `npx seaworthy-cli` | Available · [npm](https://www.npmjs.com/package/seaworthy-cli) · [source](https://github.com/harbourworks/seaworthy) |
-| [**Soundings**](https://github.com/harbourworks/soundings) | Evidence-backed answers to client security questionnaires, run locally. Scans a project, asks only what the code cannot answer, and drafts privacy notices, subprocessor lists and impact assessments where every statement has a source. `npx soundings-cli` | Pre-release · [source](https://github.com/harbourworks/soundings) |
+| [**Soundings**](https://dynamomaritime.com/soundings) | Evidence-backed answers to client security questionnaires, run locally. Scans a project, asks only what the code cannot answer, and drafts privacy notices, subprocessor lists and impact assessments where every statement has a source. `npx soundings-cli` | Available · [npm](https://www.npmjs.com/package/soundings-cli) · [source](https://github.com/harbourworks/soundings) |
 
 More tools are in the works.
 
